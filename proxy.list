@@ -68,3 +68,7 @@ DOMAIN-KEYWORD,ytimg.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,yt3.ggpht.com
 DOMAIN-SUFFIX,yt3.ggpht.com
+DDOMAIN-KEYWORD,ggpht
+DOMAIN-KEYWORD,ytimg
+DOMAIN-SUFFIX,yt3.ggpht.com
+DOMAIN-SUFFIX,i.ytimg.com
