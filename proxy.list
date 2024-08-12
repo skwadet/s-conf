@@ -59,4 +59,12 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORK,googleapis
+DOMAIN-KEYWORD,googleapis
+DOMAIN-KEYWORD,googleapis.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,kino.pub
+DOMAIN-KEYWORD,kino.pub
+DOMAIN-KEYWORD,ytimg.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,yt3.ggpht.com
+DOMAIN-SUFFIX,yt3.ggpht.com
